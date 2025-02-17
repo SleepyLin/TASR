@@ -1,4 +1,4 @@
-## TASR: Towards Blind Image Restoration with Generative Diffusion Prior
+## TASR: Timestep-Aware Diffusion Model for Image Super-Resolution
 
 [Paper](https://arxiv.org/abs/2412.03355) 
 
